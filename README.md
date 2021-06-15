@@ -4,3 +4,9 @@ src="https://crhscountyline.com/wp-content/uploads/2020/03/Capture.png"></a>&nbs
 ## Fix Parse MS
 
 ### Download > Ekstrak > Salin Semua filenya ke Node Module > Lalu replace dan copy
+
+## Contact
+- [WHATSAPP](https://wa.me/6289635687240)
+
+## Donate
+- [GOPAY | 085155078806]
