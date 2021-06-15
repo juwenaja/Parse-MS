@@ -3,7 +3,7 @@ src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhd
 
 ## Fix Parse MS 
 ### File ini berfungsi untuk memperbaiki parse ms anda. Saat install parse ms lancar dan saat start gagal? ini fixernya
-<\n>
+
 Nb kurang tau juga kalau di semua program / device bisa
 
 # Cara
