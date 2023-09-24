@@ -8,9 +8,3 @@ Nb: kurang tau juga kalau di semua program / device bisa
 
 # Cara
 ### Download > Ekstrak > Salin Semua filenya ke Node Module > Lalu replace dan copy
-
-## Contact
-- [WHATSAPP](https://wa.me/6289635687240)
-
-## Donate
-- [GOPAY | 085155078806]
